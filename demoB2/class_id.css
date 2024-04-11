@@ -1,0 +1,21 @@
+body{
+    margin:auto;
+    width:70%;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.doan1{
+    font-family: times new roman;
+    font-size: 12px;
+    color:rgb(211, 140, 47);
+}
+#tomtat{
+    color:green;
+    font-style: italic;
+}
+.doan2{
+    font-family: calibri;
+    font-size:16px;
+    color:brown;
+}
